@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-56 -56 112 112" role="img" aria-label="Yin and yang symbol">
+<circle r="48" fill="#7eded9"/>
+<path d="M0,-48 A48,48 0 0,1 0,48 A24,24 0 0,1 0,0 A24,24 0 0,0 0,-48 Z" fill="#fcb1f0"/>
+<circle cy="-24" r="8" fill="#fcb1f0"/>
+<circle cy="24" r="8" fill="#7eded9"/>
+<circle r="51" fill="none" stroke="#000" stroke-width="8"/>
+</svg>
